@@ -57,7 +57,7 @@ The model consists of two main components:
 The model is trained on a dataset of images and captions (such as the COCO dataset). After training, the model can generate captions that describe the content of input images.
 
 Sample result:
-- **Input Image**: ![example_image](https://ibb.co/7gbGjNZ)
+- **Input Image**: !(https://ibb.co/7gbGjNZ)
 - **Generated Caption**: "A group of people riding horses in the desert."
 
 ## Contributing
