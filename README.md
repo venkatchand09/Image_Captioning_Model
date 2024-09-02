@@ -1,7 +1,3 @@
-# Image_Captioning_Encoder_Decoder_Architecture
-Here's the code for the README file that you can use directly in your GitHub repository:
-
-```markdown
 # CNN Encoder + LSTM Decoder for Image Captioning
 
 This project implements an image captioning model using a Convolutional Neural Network (CNN) as an encoder and a Long Short-Term Memory (LSTM) network as a decoder. The model processes images to generate descriptive captions, demonstrating the potential of deep learning in understanding and describing visual content.
@@ -61,7 +57,7 @@ The model consists of two main components:
 The model is trained on a dataset of images and captions (such as the COCO dataset). After training, the model can generate captions that describe the content of input images.
 
 Sample result:
-- **Input Image**: ![example_image](link_to_example_image)
+- **Input Image**: ![example_image](https://ibb.co/7gbGjNZ)
 - **Generated Caption**: "A group of people riding horses in the desert."
 
 ## Contributing
